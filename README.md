@@ -10,30 +10,31 @@ Parallel implementation of image tiles is used for fast computation.
 
 You can compile code using provided Visual Studio 2015 project or use already compiled code.
 
-### Executables
+# Executables
 
 All already compiled executables for windows can be found in the [releases](https://github.com/ati-ozgur/RmSAT-CFAR/releases).
 Or you can download [latest executable](https://github.com/ati-ozgur/RmSAT-CFAR/releases/latest).
 
 
 
-## Compilation
 
-### For developer computer following configuration is suggested.
+# Compilation
+
+## For developer computer following configuration is suggested.
 
 - Intel i7  (at least 4-core and 3.0 Ghz)
 - 16 GB RAM (suggested 32 GB)
 
 
-### Necessary Software  
+## Necessary Software  
 
 - [Visual Studio 2015](https://www.visualstudio.com/vs/visual-studio-express/)  C++ IDE
 - [OpenCV 3.1 64bit](http://opencv.org/) (image processing library)
 
 
 You should download suitable version of OpenCV that is already compiled for Visual Studio.
-For example Visual Studio 2015 C++  is version vc14.
-OpenCV 3.1 already provides alreadu compiled DLL and LIB files for this version.
+For example Visual Studio 2015 C++ is the version vc14.
+OpenCV 3.1 already provides already compiled DLL and LIB files for this version.
 
  - \OpenCV\build\x64\vc14\bin    
  - \OpenCV\build\x64\vc14\lib
