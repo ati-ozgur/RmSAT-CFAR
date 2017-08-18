@@ -17,6 +17,25 @@ Or you can download [latest executable](https://github.com/ati-ozgur/RmSAT-CFAR/
 
 
 
+## Compilation
+
+### For developer computer following configuration is suggested.
+
+- Intel i7  (at least 4-core and 3.0 Ghz)
+- 16 GB RAM (suggested 32 GB)
+
+
+### Necessary Software  
+
+- [Visual Studio 2015](https://www.visualstudio.com/vs/visual-studio-express/)  C++ IDE
+- [OpenCV 3.1 64bit](http://opencv.org/) (image processing library)
+
+
+
+
+
+
+
 # Example run.
 
      CFARtargetDetection.exe im1024.tif im2014-target.png RmSAT-CFAR 0.0001
