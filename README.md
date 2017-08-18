@@ -15,6 +15,9 @@ You can compile code using provided Visual Studio 2015 project or use already co
 All already compiled executables for windows can be found in the [releases](https://github.com/ati-ozgur/RmSAT-CFAR/releases).
 Or you can download [latest executable](https://github.com/ati-ozgur/RmSAT-CFAR/releases/latest).
 
+First, you need to install Visual C++ Redistributable for Visual Studio 2015.
+Either use vc_redist.x64.exe in downloaded zip file or [download it](https://www.microsoft.com/en-us/download/details.aspx?id=48145) from Microsoft.
+
 
 
 
@@ -62,3 +65,17 @@ After these steps, you should be able to compile project using Visual Studio 201
 
 # If you run CFARtargetDetection.exe without arguments, help information can be seen.
 
+
+
+
+
+
+# Problem
+
+The program can't start because MSVCP140.dll is missing from your computer. Try reinstalling the program to fix this problem. 
+
+
+## Solution
+
+Install Visual C++ Redistributable for Visual Studio 2015.
+Either use vc_redist.x64.exe in executable zip or [download it](https://www.microsoft.com/en-us/download/details.aspx?id=48145) from Microsoft.
