@@ -48,7 +48,7 @@ To make it easy to compile source code using different open cv installations, pr
 - OpenCVDirectory=D:\OpenCV\
 - OpenCVVersion=310
 
-You may choose to set this environment variables using windows standard mechanism for setting environment variables.
+You may choose to set this environment variables using windows standard mechanism for [setting environment variables](https://www.java.com/en/download/help/path.xml).
 Or you may use provided bat file [vs2015.bat](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/VS2015.bat).
 You should change VS2015.bat so that these environment variables point to correct paths.
 
