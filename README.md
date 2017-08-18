@@ -32,7 +32,7 @@ Either use vc_redist.x64.exe in downloaded zip file or [download it](https://www
 
 You should download suitable version of OpenCV that is already compiled for Visual Studio.
 For example Visual Studio 2015 C++ is the version vc14.
-OpenCV 3.1 already provides already compiled DLL and LIB files for this version.
+OpenCV 3.1 provides already compiled DLL and LIB files for this version.
 
  - \OpenCV\build\x64\vc14\bin    
  - \OpenCV\build\x64\vc14\lib
