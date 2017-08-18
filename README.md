@@ -1,4 +1,12 @@
-# RmSAT-CFAR
+# RmSAT-CFAR (Rayleigh Mixture Summed Area Tables-Constant False Alarm Rate)
+
+This repository holds source code for Rayleigh Mixture Summed Area Tables-Constant False Alarm Rate (RmSAT-CFAR).
+Constant False Alarm Rate (CFAR) is the most used framework for target detection in Synthetic Aperture Radar (SAR) images.
+Using a Rayleigh Mixture (RM) model, background statistics are modeled.
+Summed Area Tables (SAT) are used to improve detection speed.
+Parallel implementation of image Tiles is used for fast computation. 
+
+## How to use
 
 # Download executables from Release Tab.
 
