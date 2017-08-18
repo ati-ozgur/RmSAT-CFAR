@@ -59,11 +59,10 @@ You should change VS2015.bat so that these environment variables point to correc
 After these steps, you should be able to compile project using Visual Studio 2015.
 
 
-# Example run.
 
-     CFARtargetDetection.exe im1024.tif im2014-target.png RmSAT-CFAR 0.0001
+# Example Usage
 
-# If you run CFARtargetDetection.exe without arguments, help information can be seen.
+If you run CFARtargetDetection.exe without arguments, help information can be seen.
 
 
 ```cmd
@@ -95,6 +94,21 @@ AC-CFAR parameters
 AC-CFAR.censoringPercentile
 
 ```
+
+# Example runs.
+
+    CFARtargetDetection.exe im1024.tif output-targets-RmSAT-CFAR.png RmSAT-CFAR 1e-5
+
+    CFARtargetDetection.exe im1024.tif output-targets-AAFSAT-CFAR.png AAF-CFAR 1e-5
+
+    CFARtargetDetection.exe im1024.tif output-targets-CA-CFAR.png CA-CFAR 1e-5
+
+    CFARtargetDetection.exe im1024.tif output-targets-AC-CFAR.png AC-CFAR 1e-5
+
+    CFARtargetDetection.exe im1024.tif output-targets-VI-CFAR.png VI-CFAR 1e-5
+
+ 
+
 
 
 # Problem
