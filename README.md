@@ -56,7 +56,8 @@ Or you may use provided bat file [vs2015.bat](https://github.com/ati-ozgur/RmSAT
 You should change VS2015.bat so that these environment variables point to correct paths.
 
 
-After these steps, you should be able to compile project using Visual Studio 2015.
+After these steps, double click VS2015.bat and open Visual Studio.
+You should be able to compile project using Visual Studio 2015.
 
 
 
