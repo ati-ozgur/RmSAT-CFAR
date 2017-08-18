@@ -40,10 +40,20 @@ OpenCV 3.1 already provides already compiled DLL and LIB files for this version.
  - \OpenCV\build\x64\vc14\lib
 
 
+## Environment Variables
+
+To make it easy to compile source code using different open cv installations, project file for Visual Studio 2015 uses following environment variables with given default values.
+
+- VisualCppVersion=vc140
+- OpenCVDirectory=D:\OpenCV\
+- OpenCVVersion=310
+
+You may choose to set this environment variables using windows standard mechanism for setting environment variables.
+Or you may use provided bat file [vs2015.bat](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/VS2015.bat).
+You should change VS2015.bat so that these environment variables point to correct paths.
 
 
-
-
+After these steps, you should be able to compile project using Visual Studio 2015.
 
 
 # Example run.
