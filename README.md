@@ -7,6 +7,8 @@ Summed Area Tables (SAT) are used to improve detection speed.
 Parallel implementation of image Tiles is used for fast computation. 
 
 ## How to use
+Compiled executable for windows is provided in the [releases](https://github.com/ati-ozgur/RmSAT-CFAR/releases).
+
 
 # Download executables from Release Tab.
 
