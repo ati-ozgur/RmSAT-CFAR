@@ -66,8 +66,35 @@ After these steps, you should be able to compile project using Visual Studio 201
 # If you run CFARtargetDetection.exe without arguments, help information can be seen.
 
 
+```cmd
+CFARtargetDetector v1.0
+CFARtargetDetector  [Input File Name] [Output File Name] [Target Detection Method] [Probability Of False Alarm] [Key1] [Value1] ... [KeyN] [ValueN]
+ Example : CFARtargetDetector  im1024.tif im1024_targets.png RmSAT-CFAR 1e-5 ThreadCount 1 RmSAT-CFAR.guardRadius 10 RmSAT-CFAR.maximumMixtureCount 6
 
+RmSAT-CFAR parameters
+---------------------
+RmSAT-CFAR.guardRadius
+RmSAT-CFAR.clutterRadius
+RmSAT-CFAR.minimumMixtureCount
+RmSAT-CFAR.maximumMixtureCount
 
+AAF-CFAR parameters
+-------------------
+AAF-CFAR.guardRadius
+AAF-CFAR.clutterRadius
+AAF-CFAR.censoringPercentile
+
+CA-CFAR, AC-CFAR, VI-CFAR parameters
+------------------------------------
+WB-CFAR.targetRadius
+WB-CFAR.guardRadius
+WB-CFAR.clutterRadius
+
+AC-CFAR parameters
+------------------
+AC-CFAR.censoringPercentile
+
+```
 
 
 # Problem
