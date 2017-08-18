@@ -31,6 +31,15 @@ Or you can download [latest executable](https://github.com/ati-ozgur/RmSAT-CFAR/
 - [OpenCV 3.1 64bit](http://opencv.org/) (image processing library)
 
 
+You should download suitable version of OpenCV that is already compiled for Visual Studio.
+For example Visual Studio 2015 C++  is version vc14.
+OpenCV 3.1 already provides alreadu compiled DLL and LIB files for this version.
+
+ - \OpenCV\build\x64\vc14\bin    
+ - \OpenCV\build\x64\vc14\lib
+
+
+
 
 
 
