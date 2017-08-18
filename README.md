@@ -4,13 +4,18 @@ This repository holds source code for Rayleigh Mixture Summed Area Tables-Consta
 Constant False Alarm Rate (CFAR) is the most used framework for target detection in Synthetic Aperture Radar (SAR) images.
 Using a Rayleigh Mixture (RM) model, background statistics are modeled.
 Summed Area Tables (SAT) are used to improve detection speed.
-Parallel implementation of image Tiles is used for fast computation. 
+Parallel implementation of image tiles is used for fast computation. 
 
 ## How to use
-Compiled executable for windows is provided in the [releases](https://github.com/ati-ozgur/RmSAT-CFAR/releases).
+
+You can compile code using provided Visual Studio 2015 project or use already compiled code.
+
+### Executables
+
+All already compiled executables for windows can be found in the [releases](https://github.com/ati-ozgur/RmSAT-CFAR/releases).
+Or you can download [latest executable](https://github.com/ati-ozgur/RmSAT-CFAR/releases/latest).
 
 
-# Download executables from Release Tab.
 
 # Example run.
 
