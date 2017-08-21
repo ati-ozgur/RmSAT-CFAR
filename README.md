@@ -1,14 +1,14 @@
-# RmSAT-CFAR (Rayleigh Mixture Summed Area Tables-Constant False Alarm Rate)
+# RmSAT-CFAR: Rayleigh Mixture Summed Area Tables-Constant False Alarm Rate
 
 This repository holds source code for Rayleigh Mixture Summed Area Tables-Constant False Alarm Rate (RmSAT-CFAR).
 Constant False Alarm Rate (CFAR) is the most used framework for target detection in Synthetic Aperture Radar (SAR) images.
-Using a Rayleigh Mixture (RM) model, background statistics are modeled.
-Summed Area Tables (SAT) are used to improve detection speed.
+RmSAT-CFAR is an extension of clasical CFAR framework by modeling the background statistics using a Rayleigh Mixture (RM) model and adopting
+Summed Area Tables (SAT) to improve detection speed.
 Parallel implementation of image tiles is used for fast computation. 
 
 ## How to use
 
-You can compile code using provided Visual Studio 2015 project or use already compiled code.
+You can compile code using provided Visual Studio 2015 project or use already compiled binaries.
 
 # Executables
 
@@ -24,7 +24,7 @@ Either use vc_redist.x64.exe in downloaded zip file or [download it](https://www
 # Compilation
 
 
-## Necessary Software  
+## Required Packages 
 
 - [Visual Studio 2015 Express](https://www.visualstudio.com/vs/visual-studio-express/)  C++ IDE
 - [OpenCV 3.1 64bit](http://opencv.org/) (image processing library)
@@ -40,7 +40,7 @@ OpenCV 3.1 provides already compiled DLL and LIB files for this version.
 
 ## Environment Variables
 
-To make it easy to compile source code using different open cv installations, project file for Visual Studio 2015 uses following environment variables with given default values.
+To make it easy to compile source code using different OpenCV installations, project file for Visual Studio 2015 uses following environment variables with given default values.
 
 - VisualCppVersion=vc140
 - OpenCVDirectory=D:\OpenCV\
