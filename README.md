@@ -6,6 +6,45 @@ RmSAT-CFAR is an extension of clasical CFAR framework by modeling the background
 Summed Area Tables (SAT) to improve detection speed.
 Parallel implementation of image tiles is used for fast computation. 
 
+For finding parameters of Rayleigh Mixture, Adaptive Simulated Annealing (ASA) is used.
+Our implementation for ASA can be found in following [file](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/AdaptiveSimulatedAnnealing.h).
+To test ASA, following non linear cost functions are also [implemented](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/NonlinearTestCostFunctions.h).
+Information about these functions can be found in [here](https://en.wikipedia.org/wiki/Test_functions_for_optimization).
+
+    - RastriginFunction
+    - AckleysFunction
+    - SphereFunction
+    - RosenbrockFunction
+    - BealesFunction
+    - GoldsteinPriceFunction
+    - BoothsFunction
+    - BukinFunctionNo6
+    - MatyasFunction
+    - LeviFunctionNo13
+    - ThreeHumpCamelFunction
+    - EasomFunction
+    - CrossInTrayFunction
+    - EggholderFunction
+    - HolderTableFunction
+    - McCormickFunction
+    - SchafferFunctionNo2
+    - SchafferFunctionNo4
+    - StyblinskiTangFunction
+
+
+
+
+
+
+
+To compare RmSAT-CFAR algorithm to other CFAR algorithms, following algorithms are also implemented in the repository.
+
+1. Cell Averaging CFAR (CA-CFAR)
+2. Automatic Censored CFAR (AC-CFAR)
+3. Adaptive and Fast CFAR (AAF-CFAR)
+
+
+
 ## How to use
 
 You can compile code using provided Visual Studio 2015 project or use already compiled binaries.
