@@ -52,7 +52,7 @@ Mixed
 Singapore
 ----------------
 http://www.intelligence-airbusds.com/en/23-sample-imagery
---> Radar Imagery and Data --> Radar Data for Applications --> Digital Elevation Models --> TerraSAR-X StripMap Singapore - MGD RE   (E-mail Validation is Required)
+--> Radar Imagery and Data --> Radar Data for Applications --> Maritime Monitoring --> TerraSAR-X StripMap Singapore - MGD RE   (E-mail Validation is Required)
 
 
 Sentinel-1, C band
