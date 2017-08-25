@@ -1,0 +1,72 @@
+CRBS-II StripMap
+Forest 
+Sweden, Vidsel
+----------------
+https://www.sdms.afrl.af.mil/index.php?collection=vhf_change_detection   (Data Link, Registration is Required)
+https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/RTO-MP-SCI-145/MP-SCI-145-19.pdf
+https://www.sdms.afrl.af.mil/content/challenge_areas/documents/A_challenge_problem_for_detection_of_targets_in_foliage.pdf
+
+
+TSX, Staring Spotlight
+Soil
+Russia, Monino
+----------------
+http://www.intelligence-airbusds.com/en/23-sample-imagery
+--> Radar Imagery and Data --> Radar Imagery --> TerraSAR-X Staring SpotLight --> Monino - MGD, SE   (E-mail Validation is Required)
+
+ 
+TSX, Spotlight
+Urban
+Canada, Toronto
+----------------
+http://www.intelligence-airbusds.com/en/23-sample-imagery
+--> Radar Imagery and Data --> Radar Imagery --> TerraSAR-X SpotLight --> Canada, Toronto - MGD, SE   (E-mail Validation is Required)
+
+
+TSX, SpotLight
+Mixed
+India, Visakhapatnam
+----------------
+http://www.intelligence-airbusds.com/en/23-sample-imagery
+--> Radar Imagery and Data --> Radar Imagery --> TerraSAR-X SpotLight --> India, Port of Visakhapatnam - GEC, SE   (E-mail Validation is Required)
+
+
+TSX, StripMap
+Water
+Strait of Gibraltar
+----------------
+http://www.intelligence-airbusds.com/en/23-sample-imagery
+--> Radar Imagery and Data --> Radar Imagery --> TerraSAR-X StripMap --> Strait of Gibraltar - GEC, SE   (E-mail Validation is Required)
+
+
+TSX, ScanSAR
+Farmland
+Germany, Rugen
+----------------
+http://www.intelligence-airbusds.com/en/23-sample-imagery
+--> Radar Imagery and Data --> Radar Imagery --> TerraSAR-X ScanSAR --> Germany - Island Rügen   (E-mail Validation is Required)
+
+
+TSX, StripMap
+Mixed
+Singapore
+----------------
+http://www.intelligence-airbusds.com/en/23-sample-imagery
+--> Radar Imagery and Data --> Radar Data for Applications --> Digital Elevation Models --> TerraSAR-X StripMap Singapore - MGD RE   (E-mail Validation is Required)
+
+
+Sentinel-1, C band
+Water
+Canada, Montreal
+----------------
+https://scihub.copernicus.eu/dhus/#/home     (Registration is Required)
+https://scihub.copernicus.eu/dhus/odata/v1/Products('081ded9d-8f02-4ba5-a151-b296c3ca77b5')/$value    (Login Required)
+
+
+ALOS-2, L band
+Land
+Denmark, Copenhague
+-------------------
+http://www.eorc.jaxa.jp/ALOS-2/en/doc/sam_index.htm
+--> [Natural resourses] Denmark (March 5, 2015) Stripmap 10m
+ftp://ftp.eorc.jaxa.jp/pub/ALOS-2/1501sample/620_denmark/0000022703_001001_ALOS2042192490-150305.zip   (Direct Link)
