@@ -61,11 +61,11 @@ To compare RmSAT-CFAR algorithm to other CFAR algorithms, following algorithms a
     An adaptive and fast CFAR algorithm based on automatic censoring for target detection in high-resolution SAR images 
     IEEE transactions on geoscience and remote sensing, IEEE, 2009 , 47 , 1685-1697
 
-## How to use
+# How to use
 
 You can compile code using provided Visual Studio 2015 project or use already compiled binaries.
 
-# Executables
+## Executables
 
 All already compiled executables for windows can be found in the [releases](https://github.com/ati-ozgur/RmSAT-CFAR/releases).
 Or you can download [latest executable](https://github.com/ati-ozgur/RmSAT-CFAR/releases/latest).
@@ -76,7 +76,7 @@ Either use vc_redist.x64.exe in downloaded zip file or [download it](https://www
 
 
 
-# Compilation
+## Compilation
 
 
 ## Required Packages 
