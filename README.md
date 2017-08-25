@@ -64,6 +64,11 @@ Using abstract classes provided (
     An adaptive and fast CFAR algorithm based on automatic censoring for target detection in high-resolution SAR images 
     IEEE transactions on geoscience and remote sensing, IEEE, 2009 , 47 , 1685-1697
 
+4. Variability Index CFAR ([VI-CFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/VariabilityIndexCFAR.h))
+
+
+
+
 # How to use
 
 You can compile code using provided Visual Studio 2015 project or use already compiled binaries.
