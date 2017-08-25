@@ -57,7 +57,7 @@ Using abstract classes provided (
     Automatic censoring CFAR detector based on ordered data variability for nonhomogeneous environments 
     IEE Proceedings-Radar, Sonar and Navigation, IET, 2005 , 152 , 43-51
 
-3. Adaptive and Fast CFAR (AAF-CFAR)
+3. (Adaptive and Fast CFAR (AAF-CFAR))[https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/AdaptiveAndFastCFAR.h]
 
 
     Gao, G.; Liu, L.; Zhao, L.; Shi, G. & Kuang, G.
