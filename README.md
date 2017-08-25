@@ -51,7 +51,7 @@ Using abstract classes provided (
     The automatic target-recognition system in SAIP 
     Lincoln Laboratory Journal, LINCOLN LABORATORY MIT, 1997 , 10
 
-2. Automatic Censored CFAR (AC-CFAR)
+2. Automatic Censored CFAR ([AC-CFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/AutoCensoredCFAR.h))
 
     Farrouki, A. & Barkat, M.
     Automatic censoring CFAR detector based on ordered data variability for nonhomogeneous environments 
