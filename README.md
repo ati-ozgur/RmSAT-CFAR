@@ -45,7 +45,7 @@ Using abstract classes provided (
  [AbstractCFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/AbstractCFAR.h) and [WindowBasedCFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/WindowBasedCFAR.h)
 ), other CFAR algorithms can be easily added.
 
-1. Cell Averaging CFAR (CA-CFAR)
+1. Cell Averaging CFAR ([CA-CFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/CellAveragingCFAR.h))
 
     Novak, L. M.; Owirka, G. J.; Brower, W. S. & Weaver, A. L.
     The automatic target-recognition system in SAIP 
