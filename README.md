@@ -117,6 +117,14 @@ The program can't start because MSVCP140.dll is missing from your computer. Try 
 Install Visual C++ Redistributable for Visual Studio 2015.
 Either use vc_redist.x64.exe in executable zip or [download it](https://www.microsoft.com/en-us/download/details.aspx?id=48145) from Microsoft.
 
+# Supplementary Materials
+
+Supplementary figure can be found in following directories.
+
+- [DistributionFittingComparisons](https://github.com/ati-ozgur/RmSAT-CFAR/tree/master/SupplementaryMaterials/DistributionFittingComparisons)
+- [RayleighMixtureversusOthers](https://github.com/ati-ozgur/RmSAT-CFAR/tree/master/SupplementaryMaterials/RayleighMixtureversusOthers)
+- [RayleighMixtureversusRayleigh](https://github.com/ati-ozgur/RmSAT-CFAR/tree/master/SupplementaryMaterials/RayleighMixtureversusRayleigh)
+
 
 # Data Details
 Data Details used in the article can be found in the following [file](https://raw.githubusercontent.com/ati-ozgur/RmSAT-CFAR/master/SupplementaryMaterials/data/DataDetails.txt)
