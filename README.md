@@ -64,7 +64,10 @@ Using abstract classes provided (
     An adaptive and fast CFAR algorithm based on automatic censoring for target detection in high-resolution SAR images 
     IEEE transactions on geoscience and remote sensing, IEEE, 2009 , 47 , 1685-1697
 
-4. Variability Index CFAR ([VI-CFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/VariabilityIndexCFAR.h))
+4. VI-CFAR: a novel CFAR algorithm based on data variability ([VI-CFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/VariabilityIndexCFAR.h))
+
+    M. E. Smith and P. K. Varshney, "VI-CFAR: a novel CFAR algorithm based on data variability," Proceedings of the 1997 IEEE National Radar Conference, Syracuse, NY, 1997, pp. 263-268.
+
 
 
 
