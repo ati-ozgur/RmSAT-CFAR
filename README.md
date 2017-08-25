@@ -174,7 +174,7 @@ Either use vc_redist.x64.exe in executable zip or [download it](https://www.micr
 
 # Supplementary Materials
 
-Supplementary figure can be found in following directories.
+Supplementary figures can be found in following directories.
 
 - [DistributionFittingComparisons](https://github.com/ati-ozgur/RmSAT-CFAR/tree/master/SupplementaryMaterials/DistributionFittingComparisons)
 - [RayleighMixtureversusOthers](https://github.com/ati-ozgur/RmSAT-CFAR/tree/master/SupplementaryMaterials/RayleighMixtureversusOthers)
