@@ -40,10 +40,23 @@ Information about these functions can be found in [here](https://en.wikipedia.or
 To compare RmSAT-CFAR algorithm to other CFAR algorithms, following algorithms are also implemented in the repository.
 
 1. Cell Averaging CFAR (CA-CFAR)
+
+    Novak, L. M.; Owirka, G. J.; Brower, W. S. & Weaver, A. L.
+    The automatic target-recognition system in SAIP 
+    Lincoln Laboratory Journal, LINCOLN LABORATORY MIT, 1997 , 10
+
 2. Automatic Censored CFAR (AC-CFAR)
+
+    Farrouki, A. & Barkat, M.
+    Automatic censoring CFAR detector based on ordered data variability for nonhomogeneous environments 
+    IEE Proceedings-Radar, Sonar and Navigation, IET, 2005 , 152 , 43-51
+
 3. Adaptive and Fast CFAR (AAF-CFAR)
 
 
+    Gao, G.; Liu, L.; Zhao, L.; Shi, G. & Kuang, G.
+    An adaptive and fast CFAR algorithm based on automatic censoring for target detection in high-resolution SAR images 
+    IEEE transactions on geoscience and remote sensing, IEEE, 2009 , 47 , 1685-1697
 
 ## How to use
 
