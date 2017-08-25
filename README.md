@@ -41,6 +41,9 @@ Information about these functions can be found in [here](https://en.wikipedia.or
 ## Other implemented Algorithms
 
 To compare RmSAT-CFAR algorithm to other CFAR algorithms, following algorithms are also implemented in the repository.
+Using abstract classes provided (
+ [AbstractCFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/AbstractCFAR.h) and [WindowBasedCFAR](https://github.com/ati-ozgur/RmSAT-CFAR/blob/master/targetDetectors/WindowBasedCFAR.h)
+), other CFAR algorithms can be easily added.
 
 1. Cell Averaging CFAR (CA-CFAR)
 
