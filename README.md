@@ -9,7 +9,7 @@ Following articles are submitted for this special issue.
     Submitted to Digital Signal Processing, Elsevier, 2017
 
     2) Nar, F.; Okman, O. E.; Özgür, A. & Çetin, M.
-    Software for RmSAT-CFAR 
+    RmSAT-CFAR: Fast and Accurate Target Detection in Radar Images 
     Submitted to SoftwareX, Elsevier, 2017 , XX , XXXX-XXXX
 
 Constant False Alarm Rate (CFAR) is the most used framework for target detection in Synthetic Aperture Radar (SAR) images.
